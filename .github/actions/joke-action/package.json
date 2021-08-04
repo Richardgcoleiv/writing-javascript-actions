@@ -12,6 +12,7 @@
   "dependencies": {
     "@actions/core": "^1.4.0",
     "request": "^2.88.2",
-    "request-promis": "^0.0.1-security"
+    "request-promis": "^0.0.1-security",
+    "request-promise": "^4.2.6"
   }
 }
